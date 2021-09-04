@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+
+int main () 
+{
+gotoxy 25,25;
+printf("hello world");
+return 0;
+}
